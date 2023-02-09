@@ -1,7 +1,0 @@
-Olá, bom dia/boa tarde/ boa noite!
-
-Os arquivos de teste foram adicionados à pasta principal do projeto e renomeados, afim de facilitar a execução deste. 
-
-Basta rodar a classe Principal.java e informar o nome do arquivo e o vértice que deseja consultar.
-
-Obrigada!
